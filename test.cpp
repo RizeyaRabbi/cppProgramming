@@ -8,6 +8,7 @@ int main()
     cout <<"Learning \"cpp\"\n";
     cout<<"Enter name: \n";
     cin>>name;
-    cout<<"Name is:" +name;
+    cout<<"Name is:" +name<<endl;
+    cout<<"Ubuntu ready for cpp development"<<endl;
     return 0;
 }
