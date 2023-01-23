@@ -10,5 +10,6 @@ int main()
     cin>>name;
     cout<<"Name is:" +name<<endl;
     cout<<"Ubuntu ready for cpp development"<<endl;
+    cout<<"New ubuntu OK"<<endl;
     return 0;
 }
